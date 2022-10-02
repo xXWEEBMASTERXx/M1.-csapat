@@ -17,3 +17,18 @@
   #myBtn:hover {
     background-color: #555;
   }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+li {
+  display: inline;
+}
+#navbar {
+  display: block;
+  padding: 8px;
+}
+#Walter{
+  color: white;
+}
