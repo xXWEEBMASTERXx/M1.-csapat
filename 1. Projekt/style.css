@@ -17,3 +17,26 @@
   #myBtn:hover {
     background-color: #555;
   }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+li {
+  display: inline;
+}
+#navbar {
+  display: block;
+  padding: 8px;
+  background-color: #000000;
+}
+#Walter{
+  color: white;
+}
+body{
+  background-color: #FFFFFF;
+}
+#introduction{
+  margin-top: 10px;
+}
+/* Made by Gyányi Dániel, Ipacs Péter és Menczel Balázs */
