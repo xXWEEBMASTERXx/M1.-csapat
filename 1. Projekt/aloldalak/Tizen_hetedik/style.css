@@ -34,9 +34,15 @@ li {
   color: white;
 }
 body{
-  background-color: #FFFFFF;
+  background-image: url("../../img/background-image.png");
+  background-attachment: fixed;
 }
-main{
+#Content{
   margin: auto;
+  width: 50%;
+  background-color: #00FFFF;
+}
+#Logo{
+  size: 10px;
 }
 /* Made by Gyányi Dániel */
