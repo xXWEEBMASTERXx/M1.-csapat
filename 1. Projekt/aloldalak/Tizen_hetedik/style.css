@@ -45,4 +45,10 @@ body{
 #Logo{
   size: 10px;
 }
+
+#Footer{  /* "De azért legyünk má igényesek!" - Menczel "menbal" Balázs */
+  margin: auto;
+  width: 50%;
+  background-color: #000000;
+}
 /* Made by Gyányi Dániel */
