@@ -1,0 +1,91 @@
+Az államelismerés egy létező állam olyan egyoldalú aktusa, mellyel a maga vonatkozásában kifejezetten vagy hallgatólagosan államként 
+elfogadja az újonnan létrejött és ezt a minőséget igénylő közösséget és annak teljes nemzetközi jogalanyiságát.
+
+
+
+
+Mit is takar?
+
+
+
+
+Ez a jog elsősorban olyanoknak szól, akiket például beperelnek valamiért vagy ehez hasonló sérelmek érik őket. Ha valakit egy bírósági 
+beszédnél bűnösnek találnak, ez a törvény teszi lehetővé, hogy ne neked kelljen az ártatlanságodat bizonyítanod, 
+hanem előbb a szembenlévő félnek kelljen bizonyítania a bűnödet. Ezzel megakadályozzák, hogy bárki bármiért perelhesse a másikat, mert 
+akár azért is beperelnék az embert, mer lélegzik, meg egyébb kisebbségek miatt.
+
+
+
+
+A jog a történelemben
+
+
+
+
+Az emberiség történetében az egyes emberek között jogképesség szempontjából különbséget tettek az emberek személyi állapota, statusa szerint.
+
+
+Római jog
+
+A római jogban különbséget tettek jogképesség szempontjából a szabadság állapota, a polgárság állapota, valamint a családjogi 
+állapot szerint.
+
+A szabadság állapota szerint megkülönböztettek szabadokat, rabszolgákat és felszabadítottakat.
+A polgárság állapota szerint megkülönböztettek római polgárokat, latinusokat, illetve idegeneket.
+Családjogi állapot szerint megkülönböztettek önjogú személyeket és hatalomalattiakat.
+Teljes jogképességet ezek közül csak a szabadok élvezhettek, de ők is csak akkor, ha egyben római polgárok is voltak, és ezen belül 
+is önjogú személyeknek minősültek. A római jogban nem illetett meg mindenkit a jogképesség, és egy személy életében többször is 
+változhatott állapota, például capitis deminutio következtében.
+
+
+Egyházi jog
+
+Az egyházi jog tanítása ezzel szemben azt vallotta, hogy minden ember szabad.
+
+
+Rendi magánjog
+
+A gyakorlatban azonban rendi jogban sem érvényesült az egyházi jog tanítása, hanem a jogképességet a következő tényezők befolyásolták, 
+amelyek következtében viszonylag kevesen rendelkeztek teljes jogképességgel:
+
+- A jogképes személynek törvényesnek kellett lennie, ami azt jelentette, hogy törvényes házasságból született vagy 
+	törvényesítés útján kellett a hiányzó törvényességet megszereznie.
+- A jogképes személynek honfiúnak kellett lennie, ami azt jelentette, hogy a magyar korona joghatósága alá tartozott.
+- A jogképes személynek megfelelő rendi állás szempontjából nemesnek kellett lennie, mert teljes jogképességgel csak a nemesek rendelkeztek.
+- A jogképes személyeknek az uralkodó valláshoz, azaz Magyarországon a római katolikus valláshoz, vagy bevett vallásokhoz kellett tartoznia
+- Csak a férfiak rendelkeztek teljes jogképességgel.
+
+Természetjog
+
+A természetjogi szerzők a teljes jogképességet, mint az emberrel veleszületett jogot fogalmazták meg, azonban ez az elv még a természetjogi törvénykönyvekben sem érvényesült.[5]
+
+
+Polgári magánjog
+
+
+Németországban a XIX. században a jogtudósok körében általánossá vált az a nézet, hogy minden embert születésétől teljes jogképesség illet 
+meg. Magyarországon az 1848-as törvények mondták ki azt a jogelvet először, hogy minden ember jogképes, azonban az erős rendi tradíciók 
+miatt a jogképességben még ezután is fennálltak különbségek.
+
+
+
+
+Elméletek
+
+
+
+
+Az államelismerés jogi természetével kapcsolatban a nemzetközi jog tudományában két főbb elmélet keletkezett:
+A konstitutív elmélet szerint az állam az elismeréssel válik a nemzetközi jog alanyává. Az az államot jogi 
+értelemben az elismerés hozza létre.
+Ezzel szemben a deklaratív elmélet szerint az állam az elismeréstől függetlenül alanya a nemzetközi jognak, az elismerés csupán 
+az állam létezésének tudomásulvétele, melynek semmiféle joghatása nincs.
+A valóságban egyik elmélet sem tartható ilyen tiszta formájában, a legtöbb nemzetközi jogász egyetért abban, hogy a kettő vegyítése 
+felel meg leginkább a realitásoknak. Nagy Károly szerint az elismerés "a jogalanyiság szempontjából deklaratív, vagyis az állam 
+keletkezésének pillanatától kezdve minden elismeréstől függetlenül jogalanyisággal rendelkezik. Az elismerés ugyan nem létesíti az állam 
+nemzetközi jogalanyiságát, más vonatkozásban azonban mégis konstitutív, azaz vannak bizonyos joghatásai."
+
+
+
+
+forrás: /*  https://hu.wikipedia.org/wiki/%C3%81llamelismer%C3%A9s  */
