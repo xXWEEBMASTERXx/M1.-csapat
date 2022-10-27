@@ -31,8 +31,6 @@ body{
 }
 
 #Footer{  /* "De azért legyünk má igényesek!" - Menczel "menbal" Balázs */
-  margin: auto;
-  width: 50%;
   background-color: #000000;
 }
 /* Gyányi Dániel, Ipacs Péter és Menczel Balázs programozta a Cascading Style Sheets nevű programozási nyelvben */
