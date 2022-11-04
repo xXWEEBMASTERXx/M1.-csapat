@@ -13,21 +13,20 @@
   border-radius: 10px;
   font-size: 18px;
 }
-
 #myBtn:hover {
   background-color: #555;
 }
-ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
+h1, h4, h5{
+  font-weight: bold;
 }
-li {
-display: inline;
+header{
+  padding-left: 12px;
 }
 #navbar {
 display: block;
 padding: 8px;
+margin: auto;
+width: 75%;
 background-color: #000000;
 }
 #Walter{
@@ -39,16 +38,16 @@ background-attachment: fixed;
 }
 #Content{
 margin: auto;
-width: 50%;
+width: 75%;
 background-color: #00FFFF;
 }
 #Logo{
 size: 10px;
 }
-
 #Footer{  /* "De azért legyünk má igényesek!" - Menczel "menbal" Balázs */
   margin: auto;
-  width: 50%;
+  width: 75%;
   background-color: #000000;
 }
+
 /* Made by Ipacs Péter */

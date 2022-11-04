@@ -28,6 +28,8 @@ li {
 #navbar {
   display: block;
   padding: 8px;
+  margin: auto;
+  width: 75%;
   background-color: #000000;
 }
 #Walter{
@@ -39,7 +41,7 @@ body{
 }
 #Content{
   margin: auto;
-  width: 50%;
+  width: 75%;
   background-color: #00FFFF;
 }
 #Logo{
@@ -48,7 +50,11 @@ body{
 
 #Footer{  /* "De azért legyünk má igényesek!" - Menczel "menbal" Balázs */
   margin: auto;
-  width: 50%;
+  width: 75%;
   background-color: #000000;
+}
+table, th, td{
+  border: 1px solid black;
+  padding: 4px 40px 4px 4px;
 }
 /* Made by Gyányi Dániel */
