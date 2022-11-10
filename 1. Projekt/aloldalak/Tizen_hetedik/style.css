@@ -35,6 +35,10 @@ li {
 #Walter{
   color: white;
 }
+#Walter_White{
+  color: white;
+  margin: 20px;
+}
 body{
   background-image: url("../../img/background-image.png");
   background-attachment: fixed;
@@ -47,14 +51,19 @@ body{
 #Logo{
   size: 10px;
 }
-
-#Footer{  /* "De azért legyünk má igényesek!" - Menczel "menbal" Balázs */
+#Footer{  /* "De azért legyünk má igényesek!" - Menczel Balázs, 2022 */
   margin: auto;
   width: 75%;
   background-color: #000000;
 }
 table, th, td{
-  border: 1px solid black;
+  border: none;
   padding: 4px 40px 4px 4px;
+}
+#anyad_kedves{
+  margin-left: 40px;
+}
+tbody > tr:nth-child(odd){
+  background-color: #009999;
 }
 /* Made by Gyányi Dániel */
