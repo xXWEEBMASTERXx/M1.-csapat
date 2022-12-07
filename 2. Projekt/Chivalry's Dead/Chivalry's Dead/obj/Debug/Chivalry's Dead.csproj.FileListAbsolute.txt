@@ -1,0 +1,8 @@
+D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\bin\Debug\Searching for Integrity.wav
+D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\bin\Debug\Chivalry's Dead.exe.config
+D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\bin\Debug\Chivalry's Dead.exe
+D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\bin\Debug\Chivalry's Dead.pdb
+D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.csproj.AssemblyReference.cache
+D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.csproj.CoreCompileInputs.cache
+D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.exe
+D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.pdb
