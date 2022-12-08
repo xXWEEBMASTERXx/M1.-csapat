@@ -3,16 +3,34 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Media;
-using System.Drawing;
 using System.Windows;
+using System.Drawing;
+using System.Windows.Media;
 
 namespace Chivalrys_Dead
 {
-    class Program
+
+    class Game
     {
+        class Sound
+        {
+            private MediaPlayer music_Player;
+
+            public void Play(string filename)
+            {
+                music_Player = new MediaPlayer();
+                music_Player.Open(new Uri(filename, UriKind.Relative));
+                music_Player.Play();
+            }
+
+            public void SetVolume(int volume)
+            {
+                music_Player.Volume = volume / 100.0f;
+            }
+        }
         static void Main(string[] args)
         {
+            Sound music = new Sound();
             bool IsAllAlphabetic(string value)
             {
                 foreach (char c in value)
@@ -23,17 +41,16 @@ namespace Chivalrys_Dead
 
                 return true;
             }
-            
+            /*
             FontFamily fontFamily = new FontFamily("Old English Text MT");
             Font font = new Font(
-               fontFamily,
-               72,
-               FontStyle.Regular,
-               GraphicsUnit.Pixel);
-            
+            fontFamily,
+            72,
+            FontStyle.Regular,
+            GraphicsUnit.Pixel);
+
             Console.WriteLine("Chivalry's Dead");
-
-
+            */
 
 
 
@@ -43,24 +60,24 @@ namespace Chivalrys_Dead
 
             Console.WriteLine("Please lower volume before pressing any keys!");
             Console.ReadKey();
+            string Main_Menu_Music = "Searching for Integrity.wav";
 
             // Name input
-            SoundPlayer player = new SoundPlayer();
-            player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "\\Searching for Integrity.wav";
-            player.Play();
+            music.Play(Main_Menu_Music);
+            music.SetVolume(5);
             Console.Write("Enter your name: ");
             var Temporary_name = Console.ReadLine();
             if (IsAllAlphabetic(Temporary_name) is true)
             {
                 string Player_name = Temporary_name;
-            }
+    }
             else
             {
                 Console.WriteLine("Error: name contains non Alphabetic characters");
                 Console.ReadKey();
                 Environment.Exit(0);
+             
             }
-            player.Stop();
         }
     }
 }

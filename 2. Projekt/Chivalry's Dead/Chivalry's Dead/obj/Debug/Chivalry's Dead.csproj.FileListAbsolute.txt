@@ -6,3 +6,11 @@ D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\
 D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.csproj.CoreCompileInputs.cache
 D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.exe
 D:\Gyányi Dániel\Projekt\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Projektek\2022-2023\2. Projekt\Chivalry's Dead\Chivalry's Dead\bin\Debug\Searching for Integrity.wav
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Projektek\2022-2023\2. Projekt\Chivalry's Dead\Chivalry's Dead\bin\Debug\Chivalry's Dead.exe.config
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Projektek\2022-2023\2. Projekt\Chivalry's Dead\Chivalry's Dead\bin\Debug\Chivalry's Dead.exe
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Projektek\2022-2023\2. Projekt\Chivalry's Dead\Chivalry's Dead\bin\Debug\Chivalry's Dead.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Projektek\2022-2023\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.csproj.AssemblyReference.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Projektek\2022-2023\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Projektek\2022-2023\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.exe
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Projektek\2022-2023\2. Projekt\Chivalry's Dead\Chivalry's Dead\obj\Debug\Chivalry's Dead.pdb
